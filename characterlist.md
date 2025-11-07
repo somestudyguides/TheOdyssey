@@ -2,7 +2,7 @@
 
 |Character|Description|
 |-|-|
-||Human Beings and One Faithful Dog|
+||__Human Beings and One Faithful Dog__|
 |Odysseus|The central figure in the epic, he employs guile as well as courage to return to Ithaca, defeat the suitors, and resume his proper place as king.|
 |Penelope|Wife of Odysseus and mother of their son, Telemachus, she is shrewd and faithful in fending off the suitors.|
 |Telemachus|Son of Odysseus and Penelope, the prince struggles to gain his own maturity while attempting to deal with the problems of the palace.|
@@ -18,7 +18,7 @@
 |Tiresias|The blind seer of Thebes, he meets Odysseus in the Land of the Dead, warns him of impending dangers, offers advice, and foretells a later quest and a long life.|
 |Alcinous|King of the Phaeacians, he encourages Odysseus to tell the story of his wanderings and helps the hero return to Ithaca.|
 |Nausicaa|Daughter of Alcinous and Queen Arete, she finds Odysseus when he washes ashore on Phaeacia and expresses an attraction toward him.|
-||Gods, Monsters, and Supernatural Beings|
+||__Gods, Monsters, and Supernatural Beings__|
 |Zeus|King of the gods, he is somewhat unpredictable but usually supports wayfaring suppliants, hospitality, and his daughter Athena in her concern for Odysseus.
 |Athena|Sometimes called "Pallas Athena" or "Pallas," she frequently intervenes on Odysseus' or Telemachus' behalf, often in disguise and sometimes as Mentor, the prince's adviser.|
 |Polyphemus|Also known as "the Cyclops," the one-eyed cannibal giant who traps Odysseus and a scouting party in his cave and is blinded when they escape.|
