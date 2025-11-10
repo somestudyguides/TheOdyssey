@@ -106,7 +106,7 @@ __25.__ Who is Emily Wilson?
 
 __1.__ What do Odysseus' men do after pillaging Cicones? _241_
 
->
+> Odysseus's men did not follow his orders to leave immediately.
 
 __2.__ What makes Odysseus' men lose motivation in the Land of the Lotus Eaters? _243_
 
@@ -146,14 +146,61 @@ __10.__ What is Sysiphus' task in the underworld? _298_
 
 __11.__ What is the agony of Tantalus? _198_
 
->
+> The agony of Tantalus is a punishment of eternal, unquenchable thirst and hunger.
 
 __12.__ What is Scylla? _303-4_
 
->
+> 6 headed dragon. Scylla is a horrific, monstrous creature that lives in a high cave within a sheer cliff. Circe describes her as a "deathless evil, terrible, wild and cruel" that cannot be fought.
 
 __13.__ What is Charbydis? _303-4_
 
+> A whirlpool in the ocean. Charybdis is a monstrous being that takes the form of a deadly whirlpool. She lives under a fig tree on a rock that is lower than Scylla's.
+
+__14.__ What danger do the Sirens pose? _302_
+
+> Whoever hears wants to go closer
+
+__15.__ Where does Alcinous tell Odysseus that he will go next? (Finally!) _318_
+
+> Back to his homeland
+
+__16.__ For what stated reason does Athena say that she went to Sparta, abandoning Odysseus at the end of his journey? _330_
+
 >
 
-__14.__ 
+__17.__ What major topic does Eumaeus explain to Odysseus as Book 14 opens? _334_
+
+> Xenia - hospitality
+
+__18.__ From where does Castor Hylacides come? _338_
+
+>
+
+__19.__ Name one of the two things Eumaeus gives to Odysseus that prove his obedience to the rules of Xenia. _347-8_
+
+> A cloak
+
+__20.__ As Telemachus prepares to leave Sparta, he sees eagle holding a goose. What does that omen mean? _355_
+
+>
+
+__21.__ What two characters reunite in Book 16? _375_
+
+> Odysseus and Telemachus
+
+__22.__ Who is Eumaeus? _368_
+
+>
+
+
+__23.__ What does Odysseus tell Telemachus they must do? _377_
+
+>
+
+__24.__ What major topic does Telemachus' response to his father's plan touch on? _378_
+
+>
+
+__25.__ Define hubris.
+
+>
