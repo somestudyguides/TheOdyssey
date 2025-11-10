@@ -2,100 +2,103 @@
 
 ## 1-8
 
-What muse does Homer invoke at the beginning of the story?
+__1.__ What muse does Homer invoke at the beginning of the story? _105_
 
 > The Muse
 
-What did the men do to the sun god that caused him to "[keep] them from home"?
+__2.__ What did the men do to the sun god that caused him to "[keep] them from home"? _105_
 
 > They ate Apollo's cattle
 
-Where, as the story opens, is Poseidon?
+__3.__ Where, as the story opens, is Poseidon? _106_
 
 > Poseidon is far from Mount Olympus, visiting the distant Ethiopians. He is attending a feast and sacrifice being held in his honor.
 
-What angers Telemachus about the suitors?
+__4.__ What angers Telemachus about the suitors? _117_
 
 > They have been abusing hospitality
 
-Who, actually, is Mentes?
+__5.__ Who, actually, is Mentes? _119_
 
 > Athena
 
-What does Telemachus tell the suitors when he gathers them at the beginning of Book 2?
+__6.__ What does Telemachus tell the suitors when he gathers them at the beginning of Book 2? _121_
 
 > He has suffered a double misfortune, his house is being destroyed, he is powerless to stop them, he begs them to leave, he orders them to leave.
 
-What does Antinoos say makes the suitors break the rules of Xenia and abuse hospitality?
+__7.__ What does Antinoos say makes the suitors break the rules of Xenia and abuse hospitality? _123_
 
 > He makes the suitors look like victims to Penelope's tricks.
 
-When Telemachus leaves on his ship, where does he go?
+__8.__ When Telemachus leaves on his ship, where does he go? _134_
 
 > Pylos, the kingdom of King Nestor.
 
-According to Nestor, about what did Agamemnon and Menelaus feud?
+__9.__ According to Nestor, about what did Agamemnon and Menelaus feud? _140-41_
 
 > Menelaus wanted to go home, Agamemnon wanted to stay and sacrifice to stop Athena's wrath.
 
-What does Nestor give to Telemachus to make his journey easier?
+__10.__ What does Nestor give to Telemachus to make his journey easier? _150_
 
 > A place to sleep and gifts, including horses.
 
-How did Ajax die?
+__11.__ How did Ajax die? _167-8_
 
 > Poseidon wrecked his ships, but rescued him. Ajax made a boast he survived against the will of the gods, and Poseidon heard that, Poseidon destroyed the rock Ajax was on and Ajax fell into the sea and drowned.
 
+__12.__ How did Agamemnon die? _168_
 
-What is Menalaus' connection to Odysseus? Or, put another way, what did Odysseus do that makes Menelaus think he owns Odysseus something?
+>
+
+__13.__ What is Menalaus' connection to Odysseus? Or, put another way, what did Odysseus do that makes Menelaus think he owns Odysseus something? _169_
 
 > Menelaus feels a profound debt to Odysseus because Odysseus endured the entire Trojan War "for [his] sake."
 
-What god does Athena ask to help her save Odysseus from Calypso?
+__14.__ What god does Athena ask to help her save Odysseus from Calypso? _180-1_
 
 > Zeus, who calls Hermes to help.
 
-What does Calypso say motivates the gods to make her release Odysseus?
+__15.__ What does Calypso say motivates the gods to make her release Odysseus? _184_
 
 > Calypso does not attribute a noble motive to the gods. Instead, she claims they are forcing her to release Odysseus because of cruel jealousy and a double standard.
 
-Who sees Odyssues' raft and states his opposition to Odysseus' return journey?
+__16.__ Who sees Odyssues' raft and states his opposition to Odysseus' return journey? _189_
 
 > Poseidon, he gives misery
 
-State one of the three epithets the poet has used for Athena.
+__17.__ State one of the three epithets the poet has used for Athena. _Various_
 
 > Sharp-eyed
 
-What mortal girl does Athena arrange to help Odysseus?
+__18.__ What mortal girl does Athena arrange to help Odysseus? _197_
 
 > Nausicaa
 
-Whose protection does Nausicaa say "all foreigners and beggars" are under?
+__19.__ Whose protection does Nausicaa say "all foreigners and beggars" are under? _203_
 
 > Zeus
 
-To whom does Odysseus pray before he enters Phaecia?
+__20.__ To whom does Odysseus pray before he enters Phaecia? _207_
 
 > Athena
 
-What major topic of _The Odyssey_ does the story about Ares' and Aphrodite's illicit affair touch on? (Remember who Aphrodite's husband is.)
+__21.__ What major topic of _The Odyssey_ does the story about Ares' and Aphrodite's illicit affair touch on? (Remember who Aphrodite's husband is.) _229_
 
 > Fidelity
 
-What famous story does Demodocus tell after Odysseus sends him roasted meat?
+__22.__ What famous story does Demodocus tell after Odysseus sends him roasted meat? _236-7_
 
 > The Trojan Horse
 
-What does "in medias res" mean?
+__23.__ What does "in medias res" mean?
 
 > In the middle of things.
 
-Where, geographically, is Ithaca?
+__24.__ Where, geographically, is Ithaca?
 
 > Located in the Ionian Sea, off the western coast of mainland Greece.
 
-Who is Emily Wilson?
+__25.__ Who is Emily Wilson?
 
 > The author/translater of this version of _The Odyssey_.
 
