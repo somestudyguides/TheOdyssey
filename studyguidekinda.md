@@ -48,7 +48,7 @@ __11.__ How did Ajax die? _167-8_
 
 __12.__ How did Agamemnon die? _168_
 
->
+> Aegisthus, with the help of Agamemnon's wife, Clytemnestra, murdered him.
 
 __13.__ What is Menalaus' connection to Odysseus? Or, put another way, what did Odysseus do that makes Menelaus think he owns Odysseus something? _169_
 
@@ -104,40 +104,56 @@ __25.__ Who is Emily Wilson?
 
 ## 9-16
 
--> What do Odysseus' men do after pillaging Cicones?
+__1.__ What do Odysseus' men do after pillaging Cicones? _241_
 
 >
 
-What makes Odysseus' men lose motivation in the Land of the Lotus Eaters?
+__2.__ What makes Odysseus' men lose motivation in the Land of the Lotus Eaters? _243_
 
 > eating lotus fruits
 
-What does the Cyclops eat for his meals while the stone covers the entrance?
+__3.__ What does the Cyclops eat for his meals while the stone covers the entrance? _249_
 
 > Some of Odysseus' men
 
-What does Odysseus tell the Cyclops is Odysseus' name?
+__4.__ What does Odysseus tell the Cyclops is Odysseus' name? _251_
 
 > No man
 
-What stupid thing does Odysseus do after escaping the Cyclops?
+__5.__ What stupid thing does Odysseus do after escaping the Cyclops? _256_
 
 > Tell the Cyclops his name
 
-What "deus ex machina" occurs in Book 10? (There are several. Pick 1)
+__6.__ What "deus ex machina" occurs in Book 10? _(There are several. Pick 1)_
 
 > Athena guides Odysseus
 
-Whom does Circe tell Odysseus to talk to in the underworld?
+__7.__ Whom does Circe tell Odysseus to talk to in the underworld? _275_
 
 > Tiresias
 
-What, besides intemperance, does Elpenor do wrong?
+__8.__ What, besides intemperance, does Elpenor do wrong? _277_
 
 > Not be aware of his surroundings
 
-What does Elpenor ask Odysseus to do for him during their conversation in the underworld?
+__9.__ What does Elpenor ask Odysseus to do for him during their conversation in the underworld? _281_
 
 > Morn his loss and burry him
 
+__10.__ What is Sysiphus' task in the underworld? _298_
 
+> Roll a bolder up a hill.
+
+__11.__ What is the agony of Tantalus? _198_
+
+>
+
+__12.__ What is Scylla? _303-4_
+
+>
+
+__13.__ What is Charbydis? _303-4_
+
+>
+
+__14.__ 
