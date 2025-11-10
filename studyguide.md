@@ -19,7 +19,7 @@ Birds, bird omens, food meals (play close attention to meals!)
 
 __1.__ What muse does Homer invoke at the beginning of the story? _105_
 
-> The Muse
+> The Muse (Calliope)
 
 __2.__ What did the men do to the sun god that caused him to "[keep] them from home"? _105_
 
