@@ -98,3 +98,43 @@ Where, geographically, is Ithaca?
 Who is Emily Wilson?
 
 > The author/translater of this version of _The Odyssey_.
+
+## 9-16
+
+-> What do Odysseus' men do after pillaging Cicones?
+
+>
+
+What makes Odysseus' men lose motivation in the Land of the Lotus Eaters?
+
+> eating lotus fruits
+
+What does the Cyclops eat for his meals while the stone covers the entrance?
+
+> Some of Odysseus' men
+
+What does Odysseus tell the Cyclops is Odysseus' name?
+
+> No man
+
+What stupid thing does Odysseus do after escaping the Cyclops?
+
+> Tell the Cyclops his name
+
+What "deus ex machina" occurs in Book 10? (There are several. Pick 1)
+
+> Athena guides Odysseus
+
+Whom does Circe tell Odysseus to talk to in the underworld?
+
+> Tiresias
+
+What, besides intemperance, does Elpenor do wrong?
+
+> Not be aware of his surroundings
+
+What does Elpenor ask Odysseus to do for him during their conversation in the underworld?
+
+> Morn his loss and burry him
+
+
