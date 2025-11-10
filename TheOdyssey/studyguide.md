@@ -218,3 +218,5 @@ __24.__ What major topic does Telemachus' response to his father's plan touch on
 __25.__ Define hubris.
 
 > Hubris is a term from Greek tragedy that means excessive pride, arrogance, or overconfidence, especially when it leads to the defiance of the gods and ultimately results in a person's downfall.
+
+## 17-24
