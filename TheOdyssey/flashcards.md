@@ -1,9 +1,4 @@
 # The Odyssey - Character Flashcards
-
-## How to Use These Flashcards
-
-Study these character descriptions to prepare for discussions and assessments. Try to recall each character's role and significance before reading the description.
-
 ---
 
 ## Human Beings and One Faithful Dog
@@ -251,16 +246,3 @@ Master of the winds, he helps Odysseus get within viewing distance of Ithaca but
 </details>
 
 ---
-
-## Study Tips
-
-1. **Test yourself**: Cover the answers and try to recall each character's role
-2. **Make connections**: Think about how characters relate to each other and the major themes
-3. **Compare and contrast**: Notice similarities and differences between characters
-4. **Link to themes**: Connect each character to the major topics of The Odyssey (Fate vs. Free Will, Xenia, Fidelity, etc.)
-
-For the interactive version of these flashcards, visit [flashcards.html](flashcards.html).
-
-For the complete character list in table format, visit [characterlist.md](characterlist.md).
-
-For study guide questions, visit [studyguide.md](studyguide.md).
