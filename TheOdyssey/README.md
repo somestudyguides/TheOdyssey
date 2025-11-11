@@ -7,3 +7,5 @@
 [Character List](characterlist.md)
 
 [Flashcards](flashcards.md)
+
+[Lit Chart](TheOdysseyLitChart.pdf)
